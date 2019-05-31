@@ -1,1 +1,1 @@
-FROM prom/alertmanager-linux-amd64:master
+FROM prom/alertmanager-linux-amd64:v0.17.0
